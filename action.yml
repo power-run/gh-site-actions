@@ -4,9 +4,7 @@ inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
     required: true
-    type: choice
-    options:
-      - IGWE
+    default: 'igwe'
 outputs:
   random-number:
     description: "Random number"
