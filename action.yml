@@ -4,6 +4,7 @@ inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
     required: true
+    default: "JUDE"
 outputs:
   random-number:
     description: "Random number"
