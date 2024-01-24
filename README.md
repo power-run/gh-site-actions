@@ -1,1 +1,1 @@
-# gh-composite-actions
+# gh-composite-actions.
